@@ -1,1 +1,16 @@
-{"domainUrl": "http://yb-china.7128832.com","updateUrl": "http://yb.yba8.com","branches": [{"code":"1009","version":"1.0.9","status":"deprecated"},{"code":"1010","version":"1.1.0","status":"release"}]}
+{  
+  "domainUrl":"http://yb-china.7128832.com",
+  "updateUrl":"http://yb.yba8.com",
+  "branches":[  
+    {  
+      "code":"1009",
+      "version":"1.0.9",
+      "status":"deprecated"
+    },
+    {  
+      "code":"1010",
+      "version":"1.1.0",
+      "status":"release"
+    }
+  ]
+}
