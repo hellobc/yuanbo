@@ -1,13 +1,13 @@
-{  
-  "domainUrl":"http://yb-china2.7138852.com",
-  "updateUrl":"http://yb-app.yba8.com",
-  "branches":[  
-    {  
+{
+  "domainUrl":"",
+  "updateUrl":"http://yb.yba8.com",
+  "branches":[
+    {
       "code":"1009",
       "version":"1.0.9",
       "status":"deprecated"
     },
-    {  
+    {
       "code":"1010",
       "version":"1.1.0",
       "status":"release"
