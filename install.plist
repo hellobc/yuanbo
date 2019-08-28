@@ -21,7 +21,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://download.chnso.net/iOS/Project1/yuanbo/display-image.png</string>
+                        <string>https://raw.githubusercontent.com/hellobc/yuanbo/master/display-image.png</string>
                     </dict>
                     
                     <dict>
@@ -30,7 +30,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://download.chnso.net/iOS/Project1/yuanbo/full-size-image.png</string>
+                        <string>https://raw.githubusercontent.com/hellobc/yuanbo/master/full-size-image.png</string>
                     </dict>
                 </array>
                 
